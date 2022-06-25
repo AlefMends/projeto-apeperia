@@ -5,8 +5,6 @@
 
 
 
-
-
 # :computer: Tecnologias Utilizadas:
 Este projeto foi feito utilizando as seguintes tecnologias:
 
