@@ -6,7 +6,7 @@
 
 
 # :computer: Tecnologias Utilizadas:
-Este projeto foi feito utilizando as seguintes tecnologias:
+Este projeto utiliza as seguintes tecnologias:
 
 * HTML5     
 * CSS
